@@ -2,3 +2,6 @@ I am going to start my story here.
 
 Hello guys, my name is Johnny, a junior at UW-madison.This is my first demo of github practice. Good try..
 This github repository is going to be a story made by four different people at four different times. Each person will clone the repository, add something, and push it back to the remote repository. These changes will all build upon each other in a glorious symphony of words.
+This github repository has already expanded to include 3 contributions,
+soon, a fourth contribution will be added. This glorious symphony of words is
+in full effect and will continue to be expanded upon.
